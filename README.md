@@ -59,4 +59,4 @@ The dashboard transforms raw healthcare data into meaningful insights, supportin
   ---
 
   **Dashboard Preview**
-![Smoking_Health_Risk_Analysis](Smoking_Health_Risk_Analysis.png)
+![Brain_Health_Risk_Analysis](Brain_Health_Risk_Analysis.png)
