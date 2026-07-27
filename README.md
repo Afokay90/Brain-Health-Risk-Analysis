@@ -35,7 +35,7 @@ The dashboard transforms raw healthcare data into meaningful insights, supportin
 - Power BI – Dashboard development and data visualisation
 - Power Query – Data cleaning and transformation
 - DAX (Data Analysis Expressions) – KPIs, measures, and calculated columns
-- Healthcare Dataset – Brain tumour patient records
+- Microsoft Excel
 
 ---
 
